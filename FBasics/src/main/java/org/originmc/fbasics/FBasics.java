@@ -192,7 +192,7 @@ public final class FBasics extends JavaPlugin {
             case V1_8:
             case V2_6:
             case V2_7:
-                version = settings.getFactionsVersion().name().toLowerCase();
+                version = "2_7";
                 break;
         }
 
